@@ -1,6 +1,6 @@
 # tetheriOS
 
-Native SwiftUI iOS app that connects directly to GitHub and renders your markdown vault.
+Native SwiftUI iOS app that connects directly to GitHub and renders your markdown Obsidian vault.
 
 ## Features
 
